@@ -1,0 +1,7 @@
+#wrapper-canvas canvas {
+    max-width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
